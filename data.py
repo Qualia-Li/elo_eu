@@ -4,6 +4,7 @@ alias = {
     "Holy Roman Empire": "Austria",
     "Holy Roman": "Austria",
     "Germany": "Prussia",
+    "Nazi Germany": "Prussia",
     "Italy": "Sardinia",
     "Ottoman": "Ottomans",
     "British": "England",
@@ -11,7 +12,15 @@ alias = {
     "French": "France",
     "Dutch Republic": "Netherlands",
     "USA": "United States",
-    "Qing China": "Qing",
+    "Qing China": "China",
+    "Soviet Union": "Russia",
+    "Soviet Russia": "Russia",
+    "USSR": "Russia",
+    "US": "United States",
+    "America": "United States",
+    "UK": "England",
+    "Iran": "Persia",
+    "Mongol": "Mongolia",
 }
 
 CIV_COLORS = {
@@ -33,7 +42,7 @@ CIV_COLORS = {
     'Greece':            {'city': [ 65, 141, 253], 'territory': [255, 255, 255]},
     'India':             {'city': [255, 153,  49], 'territory': [ 18, 135,   6]},
     'Indonesia':         {'city': [158,  46,  28], 'territory': [110, 210, 217]},
-    'Japan':             {'city': [184,   0,   0], 'territory': [255, 255, 255]},
+    'Japan':             {'city': [184,   0,   0], 'territory': [184,   0,   0]},
     'Korea':             {'city': [255,   0,   0], 'territory': [ 26,  32,  96]},
     'Mongolia':          {'city': [255, 120,   0], 'territory': [ 81,   0,   8]},
     'Morocco':           {'city': [ 39, 178,  79], 'territory': [144,   2,   0]},

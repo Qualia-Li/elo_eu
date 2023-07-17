@@ -87,14 +87,15 @@ for index, row in df.iterrows():
         play_time_rating[l][end] = ratings[l]
 
 # Create a plot with a specific size
-plt.figure(figsize=(8, 6))
+plt.figure(figsize=(18, 6))
 
 for p in ['England', 'France', 'Portugal', 'Spain', 'Austria', 'Russia', \
-          'Prussia', 'Denmark', 'Sweden', 'Ottomans', 'Netherlands', 'Poland', \
-          'Venice', 'Sardinia', 'Papal States', 'United States']:
+          'Prussia', 'Ottomans', 'Netherlands', "Mongolia", "Persia",\
+          'Sardinia', 'United States', 'China', 'Japan']:
     # Plotting Player 1
 
-    sorted_dict = {k: play_time_rating[p][k] for k in sorted(play_time_rating[p])}
+    sorted_dict = {k: play_time_rating[p][k] for k in sorted(play_time_rating[p]) if k > 1200}
+
     #     print(p, sorted_dict)
     plt.plot(sorted_dict.keys(), sorted_dict.values(), label=p, color=civ_colors[p])
 

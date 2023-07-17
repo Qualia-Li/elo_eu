@@ -1,39 +1,77 @@
 War	Start	End	Winner	Loser
+HRE Acquisition of Northern Italy	962	962	Holy Roman Empire	Northen Italy
+HRE Acquisition of Bohemia	973	973	Holy Roman Empire	Bohemia
+Incorporation of Slovak Lands into the Kingdom of Hungary	1000	1000	Hungary	Slovakia
+First Crusade	1096	1099	France, England	Arabia
+Personal Union of Hungary and Croatia	1102	1102	Hungary	Croatia
+Second Crusade	1147	1149	Arabia	France, Holy Roman Empire
+Swedish Control of Finnish regions	1150	1150	Sweden	Various Finnish tribes
+Third Crusade	1189	1192	Arabia	England, France, Holy Roman Empire
+Conquest of Sicily	1194	1197	Holy Roman Empire	Kingdom of Sicily
+Fourth Crusade	1202	1204	Venice	Byzantine Empire
+Mongol Conquest of Persia	1219	1221	Mongol Empire	Khwarazmian Empire
+Fifth Crusade	1217	1221	Egypt	Hungary, Holy Roman Empire
+Mongol Conquest of Central Asia	1219	1224	Mongol Empire	Central Asia
+Sixth Crusade	1228	1229	Holy Roman Empire	Muslim states
+Mongol Conquest of Russia	1237	1240	Mongol Empire	Russia
+Mongol Conquest of Poland	1240	1241	Mongol Empire	Poland
+Mongol Conquest of Hungary	1241	1242	Mongol Empire	Hungary
+Mongol Conquest of Turkey	1243	1244	Mongol Empire	Rum
+Mongol Invasion of Tibet	1240	1247	Mongol Empire	Tibet
+Mongol Conquest of Egypt	1250	1254	Mongol Empire	Egypt
+Seventh Crusade	1248	1254	Egypt	France
+Mongol Conquest of Persia (Ilkhanate)	1256	1256	Mongol Empire	Persia
+Mongol Conquest of Vietnam	1257	1257	Mongol Empire	Vietnam
+Mongol Conquest of Korea	1231	1270	Mongol Empire	Korea
+Eighth Crusade	1270	1272	France, Aragon	Tunisia
+Mongol Conquest of China	1206	1279	Mongol Empire	HRE Acquisition of Bohemia; 973; 1806; Holy Roman Empire; Kingdom of Bohemia
+Mongol Conquest of Japan (Failed invasions)	1274	1281	Japan	HRE Acquisition of Northern Italy; 962; 1806; Holy Roman Empire; Various Italian states
+Vietnamese Independence from Mongol Empire	1288	1288	Vietnam	Mongol Empire
+Northern Crusades	1147	1290	Prussia, Denmark	Latovia, Estonia
+Expansion into Eastern Europe	1241	1348	Holy Roman Empire	Poland
+End of the Ilkhanate	1353	1353	Persia	Mongol Empire
 Edwardian Era War (phase of the Hundred Years' War)	1337	1360	England	France
+Korean Independence from Mongol Empire	1356	1364	Korea	Mongol Empire
+Fall of the Yuan Dynasty	1368	1368	China	Mongol Empire
+Tibetan Independence from Mongol Rule	1368	1368	Tibet	Mongol Empire
 Caroline War (phase of the Hundred Years' War)	1369	1389	France	England
-Battle of Ankara	1402	1402	Timurid Empire	Ottoman Empire
+Battle of Ankara	1402	1402	Persia	Ottoman Empire
+Timur's Conquests	1370	1405	Persia	Mongol Empire
 Establishment of Madeira	1419	1419	Portugal	Madeira
 Ottoman Conquest of Bulgaria	1396	1422	Ottoman Empire	Bulgarian Empire
+Oirat War	1421	1424	China	Mongolia
 Settlement of the Azores	1439	1439	Portugal	Azores
+Battle of Tumu Fortress	1449	1449	Mongolia	China
 Lancastrian War (phase of the Hundred Years' War)	1415	1453	France	England
 Fall of Constantinople	1453	1453	Ottoman Empire	Byzantine Empire
 Ottoman Conquest of Serbia	1371	1459	Ottoman Empire	Serbian Kingdom
 Ottoman Conquest of Greece	1453	1460	Ottoman Empire	Byzantine Empire
 marriage of Ferdinand II of Aragon and Isabella I of Castile	1469	1469	Spain	Aragon
+Partition of Burgundy	1477	1477	France, Holy Roman Empire	Burgundy
 First Ottoman-Venetian War (1463-1479)	1463	1479	Ottoman Empire	Republic of Venice
-Hubsburg Annexation of Netherlands	1482	1482	Spain	Netherlands
+Decline of the Golden Horde	1480	1480	Russia	Mongol Empire
+	1491	1491	France	Brittany
 reconquista	711	1492	Spain, Aragon, Navarre, Portugal	Umayyad
-Voyage of Christopher Columbus	1492	1492	Spain	Various islands in the Caribbean
-Spanish Settlement of Puerto Rico	1493	1493	Spain	Indigenous Peoples (Taíno)
-Treaty of Tordesillas	1494	1494	Spain, Portugal	Dutch East Indies
-Founding of Santo Domingo	1496	1496	Spain	Hispaniola (Dominican Republic)
+Voyage of Christopher Columbus	1492	1492	Spain	Indigenous Peoples
+Spanish Settlement of Puerto Rico	1493	1493	Spain	Indigenous Peoples
 Russo-Swedish War	1495	1497	Russia	Sweden
 First Italian War	1494	1498	France, Milan	Naples, Spain, Austria, Papal States
-Discovery and settlement of Brazil	1500	1500	Portugal	Indigenous peoples
+Discovery and settlement of Brazil	1500	1500	Portugal	Indigenous Peoples
+Control of Naples by Kingdom of Aragon	1442	1501	Aragon	Kingdom of Naples
 Ottoman-Venetian War	1499	1503	Ottomans	Venice
-Second Muscovite-Lithuanian War	1500	1503	Russia	Lithuania
 Second Ottoman-Venetian War (1499-1503)	1499	1503	Ottoman Empire	Republic of Venice
+Second Muscovite-Lithuanian War	1500	1503	Russia	Lithuania
 Second Italian War	1499	1504	France, Venice	Naples, Spain
-Founding of San Juan	1508	1508	Spain	Puerto Rico
-Capture of Malacca by Portugal	1511	1511	Portugal	Malacca (now part of Malaysia)
+Fouding of Goa	1510	1510	Portugal	India
+Capture of Malacca by Portugal	1511	1511	Portugal	Malaysia
 War of the Holy League (phase of the Italian Wars)	1510	1514	Holy League (Venice, Papal States, France, Aragon)	Ottoman Empire
 Battle of Chaldiran	1514	1514	Ottoman Empire	Safavid Empire
 War of the League of Cambrai (phase of the Italian Wars)	1508	1516	France, Papal States, Spain	Venice
+Ottoman-Mamluk War (1516-1517)	1516	1517	Ottoman Empire	Egypt
 Conquest of Mecca	1517	1517	Ottoman Empire	Egypt
-Ottoman-Mamluk War (1516-1517)	1516	1517	Ottoman Empire	Mamluk Sultanate of Egypt
+Founding of Panama	1519	1519	Spain	Panama
 Conquest of Mexico	1521	1521	Spain	Mexico
 Conquest of the Aztec Empire	1521	1521	Spain	Aztec Empire
-Muscovite–Lithuanian Wars	1492	1522	Moscow	Lithuania
 Siege of Rhodes	1522	1522	Ottoman Empire	Knights Hospitaller
 Swedish War of Liberation	1521	1523	Sweden	Denmark
 Italian War of 1521	1521	1526	Spain, Holy Roman Empire	France, Venice
@@ -43,117 +81,140 @@ Siege of Vienna	1529	1529	Holy Roman Empire	Ottoman Empire
 War of the League of Cognac	1526	1530	Spain, England	League of Cognac (France, Papal States, Venice)
 Conquest of the Incan Empire	1533	1533	Spain	Peru
 Conquest of the Incan Empire	1533	1533	Spain	Incan Empire
+England's Annexation of Wales	1535	1535	Kingdom of England	Wales
 Italian War of 1536	1536	1538	Spain, Holy Roman Empire	France
 Third Ottoman-Venetian War (1537-1540)	1537	1540	Ottoman Empire	Republic of Venice
 Conquest of the Mapuche territories	1541	1541	Spain	Mapuche
 Italian War of 1542	1542	1546	France	Spain, Holy Roman Empire
 Schmalkaldic War	1546	1547	Holy Roman Empire	Schmalkaldic League
-Ottoman-Safavid War (1532-1555)	1532	1555	Ottoman Empire	Safavid Empire (Persia)
+Ottoman-Safavid War (1532-1555)	1532	1555	Ottoman Empire	Persia
 Russo-Swedish War	1554	1557	Russia	Sweden
+Fouding of Macao	1557	1557	Portugal	China
 Italian War of 1551	1551	1559	Spain, Holy Roman Empire	France, England
+Swedish Control of Estonian regions (Swedish Livonia)	1561	1561	Sweden	Livonian Confederation
 Siege of Malta	1565	1565	Knights Hospitaller, Spain	Ottoman Empire
-Founding of Florida	1565	1565	Spain	Indigenous Peoples (Timucua and Apalachee tribes)
+Founding of Florida	1565	1565	Spain	Indigenous Peoples
+Union of Lublin	1569	1569	Poland	Lithuania
 Russo-Turkish War	1568	1570	Ottomans	Russia
 Battle of Lepanto	1571	1571	Holy League (Spain, Venice, Genoa)	Ottoman Empire
 Russo-Crimean Wars	1571	1572	Russia	Crimean Khanate
 Fourth Ottoman-Venetian War (1570-1573)	1570	1573	Ottoman Empire	Republic of Venice
 Founding of Buenos Aires	1580	1580	Spain	Argentina
 Portuguese Succession Crisis of 1580	1580	1583	Spain	Portugal, France, England
-Ottoman-Safavid War (1578-1590)	1578	1590	Ottoman Empire	Safavid Empire (Persia)
+Ottoman-Safavid War (1578-1590)	1578	1590	Ottoman Empire	Persia
+Japanese invasions of Korea (1592-1598)	1592	1598	China, Korea	Japan
 War against Sigismund	1598	1599	Sweden	Poland-Lithuania
-Dutch Conquests in Indonesia	1602	1602	Netherlands	Various Indonesian Sultanates
+Dutch Conquests in Indonesia	1602	1602	Netherlands	Indonesia
+Union of the Crowns between Scotland and England	1603	1603	England	Scotland
 Anglo-Spanish War	1585	1604	England	Spain
 Long Turkish War	1593	1606	Holy League (Spain, Austria, Poland-Lithuania, Venice)	Ottomans
 Founding of Jamestown	1607	1607	England	Virginia
 Founding of Quebec	1608	1608	France	Canada
-Ottoman-Safavid War (1603-1618)	1603	1618	Ottoman Empire	Safavid Empire (Persia)
+Ottoman-Safavid War (1603-1618)	1603	1618	Ottoman Empire	Persia
 Unification of Prussia and Brandenburg	1618	1618	Prussia	Brandenburg
-Founding of Batavia (Jakarta)	1619	1619	Netherlands	Dutch East Indies (now Indonesia)
-Founding of Plymouth Colony	1620	1620	England	Massachusetts
-Bohemian Phase (phase of the Thirty Years' War)	1618	1621	Holy Roman Empire	Bohemian Rebels, Denmark
+French annexation of Navarre	1620	1620	France	Navarre
+Bohemian Phase (phase of the Thirty Years' War)	1618	1621	Holy Roman Empire	Bohemia, Denmark
 Founding of New Amsterdam (later New York)	1625	1625	Netherlands	New Netherland
-British Settlement of Barbados	1627	1627	British Empire	Indigenous Peoples (Arawak and Carib)
-Danish Phase (phase of the Thirty Years' War)	1625	1629	Holy Roman Empire	Denmark, Netherlands
+British Settlement of Barbados	1627	1627	British Empire	Indigenous Peoples
 Polish–Swedish War	1600	1629	Poland, Sweden	Poland, Sweden
+Danish Phase (phase of the Thirty Years' War)	1625	1629	Holy Roman Empire	Denmark, Netherlands
 Swedish Phase (phase of the Thirty Years' War)	1630	1635	Sweden, France	Holy Roman Empire, Spain
-French Settlement of Guadeloupe	1635	1635	France	Indigenous Peoples (Carib)
-Founding of Madras (Chennai)	1639	1639	England	Madras
-Ottoman-Safavid War (1623-1639)	1623	1639	Safavid Empire (Persia)	Ottoman Empire
+French Settlement of Guadeloupe	1635	1635	France	Indigenous Peoples
+Ottoman-Safavid War (1623-1639)	1623	1639	Persia	Ottoman Empire
+Founding of Madras (Chennai)	1639	1639	England	India
 Expulsion of Portuguese from Malacca by Dutch	1641	1641	Netherlands	Portugal
 Eighty Years' War	1568	1648	The Netherlands	Spain
 French Phase (phase of the Thirty Years' War)	1635	1648	France, Sweden, Netherlands	Holy Roman Empire, Spain
-Ottoman-Safavid War (1642-1648)	1642	1648	Safavid Empire (Persia)	Ottoman Empire
+Ottoman-Safavid War (1642-1648)	1642	1648	Persia	Ottoman Empire
 First Anglo-Dutch War	1652	1654	England	Netherlands
+Colonization of Sri Lanka (by Portuguese)	1505	1658	Portugal	Sri Lanka
+Exchange of Sri Lanka (from Portuguese to Dutch)	1658	1658	Dutch Republic	Portugal
 Second Northern War	1655	1660	Sweden	Poland-Lithuania
-Dutch–Portuguese War	1601	1663	Netherlands	Portugal, Spain
-Capture of New Amsterdam by the English	1664	1664	England	Netherlands
 Austro-Ottoman War (1663-1664)	1663	1664	Austria	Ottoman
+Capture of New Amsterdam by the English	1664	1664	England	Netherlands
 Russo-Polish War	1654	1667	Russia	Poland-Lithuania
 Second Anglo-Dutch War	1665	1667	Netherlands	England
 Portuguese Restoration War	1640	1668	Portugal, France	Spain
 Fifth Ottoman-Venetian War (1645-1669)	1645	1669	Ottoman Empire	Republic of Venice
-Ottoman-Safavid War (1668-1669)	1668	1669	Ottoman Empire	Safavid Empire (Persia)
+Ottoman-Safavid War (1668-1669)	1668	1669	Ottoman Empire	Persia
 Third Anglo-Dutch War	1672	1674	France, England	Netherlands
 Franco-Dutch War	1672	1678	Netherlands, Spain, Holy Roman Empire	France
 Swedish-Brandenburg War	1674	1679	Brandenburg-Prussia	Sweden
 Russo-Turkish War	1676	1681	Ottoman Empire	Russia
-Founding of Louisiana	1682	1682	France	Indigenous Peoples (Various tribes)
+Founding of Louisiana	1682	1682	France	Indigenous Peoples
+Annexation of Taiwan	1683	1683	China	Ming
 War of the Reunions	1683	1684	France	Spain, Holy Roman Empire
+Sino-Russian Border Conflicts	1652	1689	Qing China	Russia
 Glorious Revolution	1688	1689	Netherlands	England
-Sino-Russian Border Conflicts	1652	1689	Qing China (Winner)	Russia (Loser)
+Annexation of Mongolia	1691	1691	China	Mongolia
 Nine Years' War	1688	1697	France	Grand Alliance (Austria, England, The Netherlands)
 Great Turkish War	1683	1699	Holy League (Austria, Spain, Poland-Lithuania, Venice)	Ottomans
 Russo-Turkish War	1686	1700	Russia	Ottoman Empire
 Occupation of Timor	1702	1702	Portugal	East Timor
 Acts of Union	1707	1707	England	Scotland
 Russo-Turkish War	1710	1711	Ottomans	Russia
+Control of Sardinia by Kingdom of Aragon	1324	1714	Aragon	Kingdom of Sardinia
 War of the Spanish Succession	1701	1714	Austria, England, Netherlands, France	Spain
 Austro-Ottoman War (1716-1739)	1716	1718	Austria	Ottomans
 War of the Quadruple Alliance	1718	1720	Quadruple Alliance (France, Britain, Austria, Netherlands)	Spain
+Annexation of Tibet	1720	1720	China	Tibet
 Great Northern War	1700	1721	Russia	Sweden
 Russian conquest of Siberia	1580	1725	Russia	Various Siberian tribes
 War of Polish Succession	1733	1738	Austira, France, Prussia, Russia	Poland, Florence
-Austro-Ottoman War (1737-1739)	1737	1739	Ottomans	Austria
 Russo-Turkish War	1735	1739	Ottoman Empire	Russia
+Austro-Ottoman War (1737-1739)	1737	1739	Ottomans	Austria
 War of the Austrian Succession	1740	1748	Prussia, France, Russia, England	Austria, France, Russia, England
 Conquest of the Mughal Bengal	1757	1757	England	India (Bengal)
+Annexation of Xinjiang	1759	1759	China	Dzungar
+French and Indian War	1754	1763	Britain	France, Canada
 Seven Years' War	1756	1763	England, Prussia, Austria, Russia	France, Austria, Russia, Prussia
-French and Indian War	1754	1763	Britain	France, Indigenous Nations
 French Settlement of Tahiti	1768	1768	France	Indigenous Peoples
+清缅战争	1765	1769	China	Burmar
 First Partition of Poland	1772	1772	Russia, Prussia, Austria	Poland
 Russo-Turkish War	1768	1774	Russia	Ottomans
 American War of Independence	1775	1783	United States, France, Spain, Netherlands	England
 Fourth Anglo-Dutch War	1780	1784	England	Netherlands
+清军入越战争	1788	1789	Vietnam	China
 Russo-Swedish War	1788	1790	Russia, Sweden	Russia, Sweden
 Russo-Turkish War	1787	1792	Russia	Ottoman Empire
+平定廓尔喀	1788	1792	China	Nepal
 Second Partition of Poland	1793	1793	Russia, Prussia	Poland
-Founding of Toronto	1793	1793	United Kingdom	Indigenous Peoples (Mississaugas of the Credit First Nation)
+Founding of Toronto	1793	1793	United Kingdom	Canada
+French occupation of Sardinia	1793	1793	France	Kingdom of Sardinia
 Third Partition of Poland	1795	1795	Russia, Prussia, Austria	Poland
+British capture of Cape Town and Malacca	1795	1795	Great Britain	Netherlands
+Exchange of Sri Lanka (from Dutch to British)	1796	1796	United Kingdom	Dutch Republic
 War of the First Coalition	1792	1797	France	First Coalition (Austria, Prussia, England, Spain)
+French occupation of Venice	1797	1797	France	Republic of Venice
 French invasion of Switzerland	1798	1798	France	Switzerland
+Capture of Malta 1	1798	1798	France	Malta
 Anglo-Mysore Wars	1766	1799	Britain	India
+Capture of Malta 2	1800	1800	UK	France
+Acts of Union between Ireland and Great Britain	1801	1801	United Kingdom	Kingdom of Ireland
 War of the Second Coalition	1798	1802	France	Second Coalition (Austria, Russia, Ottomans, Britain)
 Louisiana Purchase	1803	1803	United States	France
 War of the Third Coalition	1803	1806	France	Third Coalition (Austria, Russia, United Kingdom, Netherlands)
 War of the Fourth Coalition	1806	1807	France	Fourth Coalition (Prussia, Russia, Saxony, Sweden, United Kingdom)
 Bombardment of Copenhagen	1807	1807	United Kingdom	Denmark
-War of the Fifth Coalition	1809	1809	France	Fifth Coalition (Austria, United Kingdom)
 Finnish War	1808	1809	Russia	Sweden
+War of the Fifth Coalition	1809	1809	France	Fifth Coalition (Austria, United Kingdom)
 Mexican War of Independence	1810	1810	Mexico	Spain
 Russo-Turkish War	1806	1812	Russia	Ottoman Empire
+Danish Control of Norway	1380	1814	Denmark	Norway
 Peninsular War (part of the Napoleonic Wars)	1807	1814	Portugal, United Kingdom, Spain	France
 War of the Sixth Coalition	1812	1814	Sixth Coalition (Austria, Prussia, Russia, United Kingdom, Sweden)	France
 Swedish–Norwegian War	1814	1814	Sweden	Denmark
-War of the Seventh Coalition	1815	1815	Seventh Coalition (United Kingdom, Prussia, Austria, Sweden, Netherlands)	France
 War of 1812	1812	1815	United Kingdom, United States	United Kingdom, United States
+War of the Seventh Coalition	1815	1815	Seventh Coalition (United Kingdom, Prussia, Austria, Sweden, Netherlands)	France
+Congress of Vienna	1815	1815	Austria, Russia, UK, Prussiam, Netherlands, Sardinia, Switzerland	Poalnd, Saxony, Venice, Genoa, France, Cologne
 Anglo-Maratha Wars	1775	1818	Britain	India
-Ottoman-Saudi War (1811-1818)	1811	1818	Ottoman Empire	First Saudi State
+Ottoman-Saudi War (1811-1818)	1811	1818	Ottoman Empire	Arabia
 Founding of Singapore	1819	1819	England	Singapore
 Florida Purchase Treaty (Adams-Onís Treaty)	1819	1819	United States	Spain
 Brazilian Independence	1822	1822	Brazil	Portugal
 French Interference of Spanish Revolution	1823	1823	France, Spain	Spain
 Peruvian War of Independence	1821	1824	Peru	Spain
-Founding of Brisbane	1825	1825	England	Colony of Queensland (Australia)
+Founding of Brisbane	1825	1825	England	Australia
 Chilean War of Independence	1810	1826	Chile	Spain
 Russo-Turkish War	1828	1829	Russia	Ottomans
 Annexation of Algeria	1830	1830	France	Algeria
@@ -162,60 +223,191 @@ Polish November Uprising	1830	1831	Russia	Poland
 Italian revolutions of 1830-1831	1830	1831	Austria, Naples	Italy
 Greek War of Independence	1821	1832	Greece	Ottomans
 Belgian Independence	1830	1838	Belgium	Netherlands
+Opium War	1839	1840	British Empire	China
 Signing of Treaty of Waitangi	1840	1840	England	New Zealand
-Ottoman-Egyptian War (1831-1841)	1831	1841	Ottoman Empire	Muhammad Ali's Egypt
+Ottoman-Egyptian War (1831-1841)	1831	1841	Ottoman Empire	Egypt
 Annexation of Texas	1845	1845	United States	Republic of Texas
-February Revolution in France	1848	1848	France	France
 Mexican-American War	1846	1848	United States	Mexico
+February Revolution in France	1848	1848	France	France
 First Italian War of Independence	1848	1849	Austria	Sardinia
 Revolutions of 1848 in the Austrian Empire	1848	1849	Austria	Austria
 Revolutions of 1848 in the German states	1848	1849	Austria, Prussia, Saxony, Bavaria	Germany
 Hungarian Revolution of 1848	1848	1849	Austria, Russia	Hungary
 Revolutions of 1848 in the Italian states	1848	1849	Austria	Italy
-First Schleswig War	1848	1851	Prussia, Austria	Denmark,
+First Schleswig War	1848	1851	Prussia, Austria	Denmark
 Gadsden Purchase	1853	1853	United States	Mexico
 Crimean War	1853	1856	Ottoman Empire, France, United Kingdom, Sardinia	Russia
 Anglo-Persian War	1856	1857	British Empire	Persia
 Second Italian War of Independence	1859	1859	France, Sardinia	Austria
-Opium Wars	1839	1860	United Kingdom, France	China
-Amur Acquisition	1858	1860	Russian Empire (Winner)	Qing China (Loser)
-Garibaldi's Expedition of the Thousand	1860	1860	Kingdom of Sardinia	Kingdom of the Two Sicilies (Naples)
+Amur Acquisition	1858	1860	Russia	Qing China
+Second Opium War	1860	1860	United Kingdom, France	China
+Garibaldi's Expedition of the Thousand	1860	1860	Kingdom of Sardinia	Naples
+Settlement of Vancouver	1862	1862	British Empire	Indigenous peoples
 Russo-Circassian War	1763	1864	Russia	Circassia
-Caucasian War	1817	1864	Russia	Various Caucasian tribes
+Caucasian War	1817	1864	Russia	Caucasian
 Second Schleswig War	1864	1864	Prussia, Austria	Denmark
 Austro-Prussian War	1866	1866	Prussia, Italy	Austria, various German states
-Franco-Mexican War	1861	1867	France, Mexican monarchists	Mexico
+Colonization of Alaska	1741	1867	Russia	Alaska
+Franco-Mexican War	1861	1867	France	Mexico
 Alaska Purchase	1867	1867	United States	Russia
-Annexation of the Papal States	1870	1870	Kingdom of Italy (formerly Kingdom of Sardinia)	Papal States
+Annexation of the Papal States	1870	1870	Italy	Papal States
 Franco-Prussian War	1870	1871	Prussia, German states	France
 German Unification	1871	1871	Prussia	Bavaria, Baden
+Japan annexation of Ryukyu	1872	1872	Japan	Ryukyu
 Russo-Turkish War	1877	1878	Russia, Romania, Serbia, Montenegro, Bulgaria	Ottomans
 Anglo-Zulu War	1879	1879	United Kingdom	Zulu Kingdom
 Intensification of colonization of Angola	1880	1880	Portugal	Angola
+First Boer War	1880	1881	South Africa	United Kingdom
 Franco-Tunisian War	1881	1881	France	Tunisia
-First Boer War	1880	1881	Boer Republics (Transvaal, Orange Free State)	United Kingdom
 Anglo-Egyptian War	1882	1882	United Kingdom	Egypt
-Berlin Conference begins the Scramble for Africa	1884	1884	Belgium	Congo Free State
-Spain takes control of Western Sahara	1884	1884	Spain	Spanish Sahara (Western Sahara)
+Berlin Conference begins the Scramble for Africa	1884	1884	Belgium	Congo
+Spain takes control of Western Sahara	1884	1884	Spain	Morocco
 German Conquests in the Pacific	1884	1884	Germany	Various Pacific Islands
 Sino-French War	1884	1885	France	China, Vietnam
 German East Africa established	1885	1885	Germany	German East Africa
 Third Anglo-Burmese War	1885	1885	British Empire	Kingdom of Burma
-French Conquest of Vietnam	1858	1887	France	Nguyen Dynasty, Tay Son Rebellion
-Italian Somaliland established	1889	1889	Italy	Italian Somaliland
-Conquest of Central Asia	1814	1895	Russia	Various Central Asian khanates
-Founding of French West Africa	1895	1895	France	French West Africa
-British East Africa established	1895	1895	United Kingdom	British East Africa (now Kenya)
+French Conquest of Vietnam	1858	1887	France	Vietnam
+Italian Somaliland established	1889	1889	Italy	Somaliland
+Conquest of Central Asia	1814	1895	Russia	Central Asia
+First Sino-Japanese War	1894	1895	Japan	China
+Founding of French West Africa	1895	1895	France	West Africa
+First Italo-Ethiopian War	1895	1895	Ethiopia	Italy
+British East Africa established	1895	1895	United Kingdom	East Africa
+British Control of Kuala Lumpur 	1895	1895	UK	Malaysia
+Colonization of Madagascar	1896	1896	France	Madagascar
+Spanish Annexation of the Philippines	1565	1898	Spain	Philippines
+USA Annexation of Hawaii	1898	1898	USA	Hawaii
 Annexation of the Philippines	1898	1898	United States	Spain
-Anglo-Sudan War	1896	1899	United Kingdom, Egypt	Mahdist Sudan
-Annexation of Western Samoa	1899	1899	Germany	Western Samoa
+Anglo-Sudan War	1896	1899	United Kingdom, Egypt	Sudan
 Boxer Rebellion	1899	1901	Austria, France, Germany, Italy, Japan, Russia, United States, United Kingdom	China
-Second Boer War	1899	1902	British Empire	Boer Republics (Transvaal, Orange Free State)
+Second Boer War	1899	1902	British Empire	South Africa
+Colonization of Nigeria	1851	1903	UK	Nigeria
 Russo-Japanese War	1904	1905	Japan	Russia
-Annexation of Papua	1906	1906	England	Papua New Guinea
-Herero Wars	1904	1907	Germany	Herero, Namaqua (Present-day Namibia)
+	1905	1905	Norway	Sweden
+Annexation of Papua	1906	1906	British Empire	Papua New Guinea
+Anglo-Russia invasion of Persia	1907	1907	British Empire, Russian Empire	Persia
 Annexation of Bosnia	1908	1908	Austria	Ottomans
+Annexation of Korea by Japan	1910	1910	Japan	Korea
 Italo-Turkish War	1911	1912	Italy	Ottomans
 Franco-Moroccan Wars	1912	1912	France	Morocco
 First Balkan War	1912	1913	Balkan League (Serbia, Greece, Bulgaria, Montenegro)	Ottomans
 Second Balkan War	1913	1913	Serbia, Greece, Romania, Ottomans	Bulgaria
+Occupation of Namibia	1914	1914	UK	Germany
+Control of Croatia by Kingdom of Hungary	1102	1918	Hungary	Croatia
+First World War	1914	1918	France, United Kingdom, Japan, China, United States, Greece, Italy	Austria, Hungary, Germany, Russia, Turkey, Belgium
+Treaty of Brest-Litovsk	1918	1918	Germany, Austria, Hungary, Ottomans, Bulgaria, Poland, Ukraine, Belarus, Lithuania, Latvia, Estonia	Russia
+Control of Slovak Lands by Kingdom of Hungary	around 1000	1918	Hungary	Slovakia
+Occupation of German New Guinea	1918	1918	UK	Germany
+Treaty of Versailles	1919	1919	UK, France, Denmark, Poland, Czechoslovakia, Lithuania, Belgium	Germany
+Independence of Armenia	1918	1920	Armenia	Russia
+Independence of Central Asia	1918	1920	Turkmenistan, Uzbekistan, Tajikistan, Kyrgyzstan, Kazakhstan	Russia
+Treaty of Saint-Germain-en-Laye	1920	1920	Italy, Serbia, Czechoslovakia, Poland	Austria, Hungary
+Founding of the League of Nations	1920	1920	UK, France, Italy, Japan	Germany, USSR
+Polish-Soviet War	1919	1921	Poland	Russia, Ukraine
+Independence of Mongolia	1921	1921	Mongolia	China
+Independence of Ireland	1921	1921	Ireland	United Kingdom
+Greco-Turkish War	1919	1922	Turkey	Greece
+Ukrainian SSR and Belorussian SSR Integration into USSR	1922	1922	Soviet Union	Ukraine, Belarus
+Incorporation of Transcaucasian Republics into USSR	1922	1922	Soviet Union	Armenia, Azerbaijan, Georgia
+Treaty of Lausanne	1923	1923	France, UK, Italy, Greece, Romania, Armenia	Ottomans
+Soviet Annexation of Central Asian Republics	1924	1925	Soviet Union	Turkmenistan, Uzbekistan, Tajikistan, Kyrgyzstan, Kazakhstan
+Sino-Russian War	1929	1929	Soviet Union	China
+Invasion of Manchuria	1931	1932	Japan	China
+Chaco War	1932	1935	Paraguay	Bolivia
+Second Italo-Ethiopian War	1935	1936	Italy	Ethiopia
+Annexation of Austria	1938	1938	Germany	Austria
+Munich Agreement	1938	1938	Nazi Germany	Czechoslovakia
+Molotov-Ribbentrop Pact	1939	1939	Soviet Union, Nazi Germany	Poland
+Soviet invasion of Finland	1939	1940	Soviet Union	Finland
+Soviet Annexation of the Baltic States	1940	1940	Soviet Union	Estonia, Latvia, Lithuania
+	1940	1940	Germany	Greece
+Anglo-Soviet Invasion of Iran	1941	1941	British Empire, Soviet Union	Persia
+Japanese Conquest of the Philippines	1941	1941	Japan	USA
+Japanese Conquest of Vietnam (as part of French Indochina)	1941	1941	Japan	France
+Japanese Conquest of Malaysia (British Malaya)	1941	1941	Japan	UK
+	1941	1941	Germany	Norway
+	1941	1941	UK, Ethiopia	Italy
+Japanese Conquest of Indonesia (Dutch East Indies)	1942	1942	Japan	Netherlands
+German Conquest of Belgium	1940	1944	Germany	Belgium
+German Conquest of France	1940	1944	Germany	France
+Second Sino-Japanese War	1937	1945	Allied Powers (China, USA, UK, USSR)	Japan
+World War II	1939	1945	Allied Powers (USA, USSR, UK, China)	Axis Powers (Germany, Italy), France, Netherlands, Belgium, Denmark
+German Conquest of Netherlands	1940	1945	Germany	Netherlands
+German Conquest of Denmark	1940	1945	Germany	Denmark
+Independence of Indonesia	1945	1945	Indonesia	The Netherlands
+Occupation of Germany	1945	1945	UK, USA, France, USSR	Germany
+Occupation of Japan	1945	1945	USA	Japan
+Liberation	1945	1945	Denmark	Germany
+	1945	1945	Norway	Germany
+	1944	1945	Belgium	Germany
+	1945	1945	Netherlands	Germany
+Philippines	1944	1945	USA	Japan
+Malaysia	1945	1945	UK	Japan
+Vietnam	1944	1945	France	Japan
+Manchuria	1945	1945	China, USSR	Japan
+	1945	1945	France	Germany
+	1945	1945	Greece	Germany
+	1944	1945	Czechoslovakia, USSR	Germany
+	1944	1945	Poland, USSR	Germany
+Liberation of Korea	1945	1945	Korea, USSR, USA	Japan
+	1945	1945	China	Japan
+Independence of Lebanon, Syria	1945	1946	Lebanon, Syria	France
+Independence of the Philippines	1946	1946	Philippines	United States
+Indo-Pakistani War	1947	1947	India, Pakistan	India, Pakistan
+Partition of India	1947	1947	India, Pakistan	British Empire
+Independence of Sri Lanka	1948	1948	Sri Lanka	United Kingdom
+Arab-Israeli War	1948	1949	Israel	Arabia, Egypt
+Chinese Revolution	1949	1949	China	China
+Independence of Libya	1951	1951	Libya	Italy
+	1943	1951	Lybia, UK	Italy
+Independence of Egypt	1952	1952	Egypt	UK
+Korean War	1950	1953	UN Coalition (USA, UK, Canada, Australia), China, Korea, USSR	Korea, China, USSR, USA, UK, Canada, Australia
+First Indochina War	1946	1954	Vietnam	France
+Suez Crisis	1956	1956	Egypt	UK, France, Israel
+Independence of Morocco	1956	1956	Morocco	France, Spain
+Invasion of Hungary	1956	1956	Soviet Union	Hungary
+Independence of Tunisia	1956	1956	Tunisia	France
+Independence of Malaysia	1957	1957	Malaysia	United Kingdom
+Independence of West Africa	1957	1958	West Africa	France
+Independence of Nigeria	1960	1960	Nigeria	UK
+Independence of the Democratic Republic of Congo	1960	1960	Congo	Belgium
+Independence of Madagascar	1960	1960	Madagascar	France
+Independence of South Africa	1961	1961	South Africa	United Kingdom
+	1961	1961	India	Portugal
+Independence of Tanzania (East Africa)	1961	1961	Tanzania	United Kingdom
+Independence of Algeria	1962	1962	Algeria	France
+	1964	1964	Malta	UK
+Indo-Pakistani War	1965	1965	India, Pakistan	India, Pakistan
+Six-Day War	1967	1967	Israel	Egypt, Jordan, Syria
+Invasion of Czechoslovakia	1968	1968	Soviet Union	Czechoslovakia
+Independence of Arabia	1971	1971	Arabia	United Kingdom
+Bangladesh Liberation War	1971	1971	Bangladesh, India	Pakistan
+Turkish Invasion of Cyprus	1974	1974	Turkey	Cyprus, Greece
+Vietnam War	1955	1975	Vietnam, China, USSR	United States
+	1975	1975	Angola	Portugal
+Sino-Vietnamese War	1979	1979	China, Vietnam	China, Vietnam
+Independence of Canada	1982	1982	Canada	United Kingdom
+Falklands War	1982	1982	United Kingdom	Argentina
+US Invasion of Grenada	1983	1983	USA	Grenada
+Independence of Australia	1986	1986	Australia	United Kingdom
+Independence of New Zealand	1986	1986	New Zealand	United Kingdom
+Iran-Iraq War	1980	1988	Iran, Iraq	Iran, Iraq
+Soviet-Afghan War	1979	1989	Afghanstan (USA, Arabia, Pakistan)	Soviet Union
+US Invasion of Panama	1989	1989	USA	Panama
+Merger of Germanies	1990	1990	Germany	East Germany
+Cambodian-Vietnamese War	1977	1991	Vietnam	Cambodia
+Gulf War	1990	1991	coalition (USA, UK, France, Arabia, Egypt)	Iraq
+Dissolution of the USSR	1991	1991	Ukraine, Belarus, Estonia, Latvia, Lithuania, Turkmenistan, Uzbekistan, Tajikistan, Kyrgyzstan, Kazakhstan, Armenia, Azerbaijan, Georgia	Russia
+Nagorno-Karabakh War	1991	1994	Armenia	Azerbaijan
+Handover of Hong Kong	1997	1997	China	United Kingdom
+Kosovo War	1998	1999	NATO (USA, UK, France, Germany)	Yugoslavia
+Kargil War	1999	1999	India	Pakistan
+	1999	1999	China	Portugal
+East Timor Independence	2002	2002	East Timor	Indonesia
+Russo-Georgian War	2008	2008	Russia, South Ossetia, Abkhazia	Georgia
+Gaza War	2008	2009	Israel	Hamas
+Iraq War	2003	2011	Multi-National Force–Iraq (USA, UK, Australia, Poland)	Iraq
+Iraq War	2003	2011	United States, UK, Australia, Poland	Iraq
+Libyan Civil War	2011	2011	Belgium, France, UK, USA, Italy, Norway, Denmark, Turkey	Libya
+Crimean Crisis	2014	2014	Russia	Ukraine
+Gaza War	2014	2014	Israel	Hamas
